@@ -1,0 +1,30 @@
+=============== Jan 4, 2026 (CST) ===============
+10:40:09.249144 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+10:40:09.266818 db@open opening
+10:40:09.272052 version@stat F·[] S·0B[] Sc·[]
+10:40:09.277453 db@janitor F·2 G·0
+10:40:09.277923 db@open done T·10.798321ms
+10:40:09.355276 db@close closing
+10:40:09.356904 db@close done T·1.609956ms
+=============== Jan 4, 2026 (CST) ===============
+11:05:12.118107 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+11:05:12.124832 version@stat F·[] S·0B[] Sc·[]
+11:05:12.125589 db@open opening
+11:05:12.127462 journal@recovery F·1
+11:05:12.132664 journal@recovery recovering @1
+11:05:12.141294 memdb@flush created L0@2 N·11 S·592B "H̗..\x9cW\xc9,v4":"r\x00\x00..\x9cW\xc9,v6"
+11:05:12.147294 version@stat F·[1] S·592B[592B] Sc·[0.25]
+11:05:12.170980 db@janitor F·3 G·0
+11:05:12.171300 db@open done T·45.308216ms
+11:05:14.443140 db@close closing
+11:05:14.444889 db@close done T·1.74614ms
+=============== Jan 4, 2026 (CST) ===============
+16:30:36.531885 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+16:30:36.549584 version@stat F·[1] S·592B[592B] Sc·[0.25]
+16:30:36.550320 db@open opening
+16:30:36.552231 journal@recovery F·1
+16:30:36.557500 journal@recovery recovering @3
+16:30:36.572132 memdb@flush created L0@5 N·8 S·473B "Dat..ion,v14":"unc..own,v20"
+16:30:36.578599 version@stat F·[2] S·1KiB[1KiB] Sc·[0.50]
+16:30:36.611878 db@janitor F·4 G·0
+16:30:36.612194 db@open done T·61.596836ms

@@ -1,0 +1,18 @@
+=============== Jan 4, 2026 (CST) ===============
+11:05:02.302497 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+11:05:02.317779 db@open opening
+11:05:02.322970 version@stat F·[] S·0B[] Sc·[]
+11:05:02.326637 db@janitor F·2 G·0
+11:05:02.326870 db@open done T·8.826316ms
+11:05:02.330562 db@close closing
+11:05:02.331810 db@close done T·1.247182ms
+=============== Jan 4, 2026 (CST) ===============
+16:30:36.788840 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+16:30:36.804015 version@stat F·[] S·0B[] Sc·[]
+16:30:36.804839 db@open opening
+16:30:36.806240 journal@recovery F·1
+16:30:36.810303 journal@recovery recovering @1
+16:30:36.823827 memdb@flush created L0@2 N·2 S·181B "loc..seq,v2":"version,v1"
+16:30:36.827980 version@stat F·[1] S·181B[181B] Sc·[0.25]
+16:30:36.848278 db@janitor F·3 G·0
+16:30:36.848520 db@open done T·43.511433ms

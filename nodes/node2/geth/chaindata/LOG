@@ -1,0 +1,20 @@
+=============== Jan 4, 2026 (CST) ===============
+10:40:08.647336 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+10:40:08.663149 db@open opening
+10:40:08.667424 version@stat F·[] S·0B[] Sc·[]
+10:40:08.672057 db@janitor F·2 G·0
+10:40:08.672418 db@open done T·9.042379ms
+10:40:08.731638 db@close closing
+10:40:08.733316 db@close done T·1.673003ms
+=============== Jan 4, 2026 (CST) ===============
+11:04:52.110020 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+11:04:52.116886 version@stat F·[] S·0B[] Sc·[]
+11:04:52.117554 db@open opening
+11:04:52.119477 journal@recovery F·1
+11:04:52.123866 journal@recovery recovering @1
+11:04:52.132415 memdb@flush created L0@2 N·11 S·592B "H̗..\x9cW\xc9,v4":"r\x00\x00..\x9cW\xc9,v6"
+11:04:52.137957 version@stat F·[1] S·592B[592B] Sc·[0.25]
+11:04:52.162045 db@janitor F·3 G·0
+11:04:52.162306 db@open done T·44.515743ms
+11:04:54.450253 db@close closing
+11:04:54.452708 db@close done T·2.442942ms

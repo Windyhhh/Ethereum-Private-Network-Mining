@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⛓️ Ethereum-Private-Network-Mining
+# 以太坊私链部署与挖矿 | Ethereum-Private-Network-Mining
 
 ### Deploy & mine on an Ethereum private network.
 
